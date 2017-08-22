@@ -4,3 +4,5 @@ This assignment is for the Grader/Course Assistant position for course Compiler 
 The python interpreter code has been written to compile/run statements, expressions and variable assignment containing files.
 The code is limited to use of few variants of the inputs, examples of which can be found in files test1.py, test2.py and test3.py.
 The python interpreter file is named Compiler_Construction.py.
+
+NOTE: The test files to be run with the python code are to be given as command line arguments, one file at a time of each run.
