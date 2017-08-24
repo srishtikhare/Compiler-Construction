@@ -12,6 +12,9 @@ FUNCTIONS:
 parse_file(filename) -- This function reads the input file, identifies the print statements, statements, expressions and variable assignment operations and assigns them to their respective lists for calculations.
 
 exeSttements() -- This function operates upon the statements list and prints out the results
+
 exePrintStatements() -- This function operates upon the print statements list and prints values in the order of their occurence in the file to main the flow.
+
 exeVariables() -- This function operates upon the variables list and performs variable assignment operation.
+
 Main() -- This function executes the parsing of file and, after calculation of expressions, print statements, statements and variable assignment operations, prints the values in the order of occurence in the original file, to maintain the code flow.
